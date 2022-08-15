@@ -17,14 +17,14 @@ This might be useful and helpful for an absolute beginners to be able to pickup 
   • Bootstrap - YouTube 
 
   • Python for beginners 
+  
+  • React - The Complete Guide (incl Hooks, React Router, Redux) - Udemy
+  
+  • Next.js dev to deployment - Udemy 
 
 ## I'm currently learning:
 
-  • React - The Complete Guide (incl Hooks, React Router, Redux) - Udemy
-
   • More React Topics - YouTube, Udemy, freecodeCamp and everywhere
-
-  • Next.js dev to deployment - Udemy 
 
   • More Next.js course - YouTube, Udemy
 
